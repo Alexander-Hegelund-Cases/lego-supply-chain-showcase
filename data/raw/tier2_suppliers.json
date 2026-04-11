@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Chi Mei Corporation",
+    "location": "Taiwan",
+    "category": "ABS Resin",
+    "tier": 2,
+    "esg_score": "Platinum (EcoVadis)",
+    "supplies": ["AMERICAN POLY DEL NORTE S.A DE C.V.", "BROADWAY PRECISION TECHNOLOGY"]
+  },
+  {
+    "name": "LG Chem",
+    "location": "South Korea",
+    "category": "ABS/Polymer",
+    "tier": 2,
+    "esg_score": "High (Double Materiality)",
+    "supplies": ["BROADWAY PRECISION TECHNOLOGY", "Avient China Co., Ltd."]
+  },
+  {
+    "name": "SABIC",
+    "location": "Saudi Arabia",
+    "category": "Polymer/Petrochemical",
+    "tier": 2,
+    "esg_score": "Sustainalytics 24.4",
+    "supplies": ["AMERICAN POLY DEL NORTE S.A DE C.V.", "Avient Colorants"]
+  },
+  {
+    "name": "INEOS Styrolution",
+    "location": "Germany",
+    "category": "Styrenics",
+    "tier": 2,
+    "esg_score": "EcoVadis Gold",
+    "supplies": ["AMB INDUSTRI AB", "Precision Parts GmbH"]
+  },
+  {
+    "name": "BASF SE",
+    "location": "Germany",
+    "category": "Chemicals",
+    "tier": 2,
+    "esg_score": "CDP A",
+    "supplies": ["AMB INDUSTRI AB", "Balyfa Hungary Kft."]
+  },
+  {
+    "name": "Braskem",
+    "location": "Brazil",
+    "category": "Bio-PE",
+    "tier": 2,
+    "esg_score": "CDP A (Water/Climate)",
+    "supplies": ["Avient Colorants", "Polymer Solutions Inc."]
+  },
+  {
+    "name": "Novamont",
+    "location": "Italy",
+    "category": "Bioplastics",
+    "tier": 2,
+    "esg_score": "B Corp (Top 5%)",
+    "supplies": ["EcoPackage Ltd.", "Polymer Solutions Inc."]
+  },
+  {
+    "name": "Mora Packaging",
+    "location": "Spain",
+    "category": "Cardboard/Packaging",
+    "tier": 2,
+    "esg_score": "ISO 14001",
+    "supplies": ["C C Joint Printing Co.", "ARTIGRAF SA DE CV"]
+  },
+  {
+    "name": "PakFactory",
+    "location": "Global",
+    "category": "Eco-Packaging",
+    "tier": 2,
+    "esg_score": "FSC / SGS Certified",
+    "supplies": ["All4Labels", "BORDING A/S"]
+  }
+]
